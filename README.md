@@ -1,10 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=zinnun&color=brightgreen)
 # 👋 Hey there,
 - 👨‍🎓 I am [Zinnun](https://www.linkedin.com/in/zinnun/)
-- 👉 Working on Web Automation testing, Selenium Hybrid Framework, Rest API Testing, Performance Testng & Container Technologies
-- 👀 I’m interested in Coding, Sudoku, Reading Fiction & Non-Fiction Books, Reaching out new people 
-- 💞️ I’m looking forward to collaborate on Manual & Automation Testing related stuffs
-- ✍ I write QA related blogs on my [Personal blog](https://zinnun.hashnode.dev/) & [dev.to](https://dev.to/zinnun) 
+- 👉 Working on Data Analytics 📈
+- ✨Finding fun in breaking, building, and hacking hardware — SDR, LoRa, embedded systems & mechatronics!
+- 👉 have experience in Web Automation testing(Selenium), Rest API Testing, Performance Testing.
 
 <!---
 mdzinnun75/mdzinnun75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
